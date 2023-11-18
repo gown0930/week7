@@ -1,0 +1,60 @@
+a {
+   text-decoration: none;
+}
+#loginbox{
+   text-align: center;
+   margin-top: 100px;
+  }
+  
+  #logo{
+      height: 200px;
+      margin-top: 50px;
+      margin-bottom: 10px;
+      display: block;
+  }
+  .out{
+      margin-left:auto;
+      margin-right:auto;
+  }
+  .login{
+      display: block;
+      height: 40px;
+      width: 350px;
+      margin-bottom: 10px;
+      margin-left:auto;
+      margin-right:auto;
+      border-radius: 10px;
+  }
+  #login{
+      display: block;
+      height: 40px;
+      width: 354px;
+      background-color: rgb(72, 169, 72);
+      color: white;
+      cursor: pointer;
+      border-radius: 10px;
+  }
+  #bottomboxout{
+      text-align: center;
+  }
+  #bottombox{
+      display: flex;
+      width: 300px;
+      justify-content: space-between;
+      height: 40px;
+      margin-left:auto;
+      margin-right:auto;
+  }
+  .bottom{
+   color: rgb(85, 84, 84);
+   text-decoration: none;
+  }
+  #title{
+    color: green; 
+    font-family: Arial, sans-serif;
+    font-size: 50px; 
+  }
+  #errorMessage{
+   color: red;
+   margin-bottom: 5px;
+  }
